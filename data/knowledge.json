@@ -1,0 +1,10 @@
+[
+  {
+    "tags": ["availability", "room", "booking"],
+    "content": "you can check room availability by calling our reception or visiting our booking page"
+  },
+  {
+    "tags": ["payment", "refund"],
+    "content": "refunds take up to 7 days to reflect after cancellation"
+  }
+]
